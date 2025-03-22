@@ -1,0 +1,1 @@
+This is a Hotel Management System built using Python and Tkinter. The application provides an interactive GUI for managing hotel operations such as booking rooms, managing guests, and processing payments.
